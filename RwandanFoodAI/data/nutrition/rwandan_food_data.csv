@@ -1,17 +1,25 @@
-name,calories_per_100g,protein_g,carbs_g,fat_g
-Akabenzi,250,15,10,18
-Brochettes,200,25,5,10
-Ibihaza,80,2,18,1
-Ibishyimbo,330,21,60,1
-Igitoki,120,1,30,0
-Umutsima,150,3,30,1
-Agatogo,180,10,20,8
-Isombe,120,4,20,4
-Ugali,160,3,33,1
-Ibirayi,80,2,17,0
-Umuceri,130,3,28,0
-Dodo,30,2,5,0
-Igikoma,100,3,20,2
-Mizuzu,50,3,10,0
-Inyama y'Inkoko,165,31,0,4
-Imvange,140,5,25,3
+name,ingredients,total_calories,protein,carbs,fat,fiber,sodium,sugar
+Amaranth Greens (Dodo),"Amaranth leaves (200g), Vegetable oil (15ml), Onions (50g), Tomatoes (50g), Salt (2g), Spices (5g)",155,9,12,9,9,35,2
+Bean Stew (Isosi y'Ibishyimbo),"Beans (200g), Tomatoes (100g), Onions (50g), Vegetable oil (15ml), Garlic (5g), Salt (2g), Spices (5g)",405,32,70,5,26,15,3
+Beef skewer (Brochettes-Umushito),"Beef (150g), Vegetable oil (15ml), Onion (25g), Bell pepper (25g), Garlic (5g), Salt (2g), Spices (5g)",480,40,2,32,0,180,1
+Cassava and Beans (Imyumbati n'ibishyimbo),"Cassava (200g), Dried beans (100g), Salt (3g), Water (700ml), Onion (50g), Garlic (5g), Vegetable oil (15ml), Bay leaf (1 leaf)",640,25,130,2,24,35,5
+Cassava flour with Beef Stew (Ubugari nisosi y'inka),"Cassava flour (200g), Water (300ml), Salt (2g), Beef (150g), Onions (50g), Tomatoes (100g), Vegetable oil (15ml), Garlic (5g), Salt (3g), Spices (5g)",980,42,170,30,10,380,5
+Cassava leaves (Isombe),"Cassava leaves (200g), Palm oil (30ml), Onions (50g), Garlic (5g), Salt (2g), Spices (5g)",350,10,18,28,10,45,3
+Chicken Stew (Isosi y'inkoko),"Chicken (150g), Onions (50g), Tomatoes (100g), Bell peppers (50g), Vegetable oil (15ml), Garlic (5g), Salt (3g), Spices (5g)",380,32,12,25,3,320,5
+Chicken with green bananas (Igisafuriya),"Chicken (150g), Green bananas (200g), Tomatoes (50g), Onions (50g), Bell peppers (50g), Vegetable oil (10ml), Garlic (5g), Salt (2g), Spices (5g)",580,38,75,22,7,320,18
+Corn flour With Bean stew (Umutsima),"Cornmeal (250g), Beans (200g), Onion (50g), Tomato (50g), Vegetable oil (15ml), Salt (2g), Garlic (5g), Green pepper (30g), Coriander leaves (5g)",1270,40,230,28,28,610,10
+Deep-Fried Fish (Isambaza),"Small fish (200g), Vegetable oil (30ml), Flour (20g), Salt (2g), Spices (5g)",420,46,1,28,0,220,0
+Fish Stew (Isosi y'ifi),"Fish fillet (150g), Onions (50g), Tomatoes (100g), Bell peppers (50g), Celery (30g), Vegetable oil (15ml), Garlic (5g), Salt (3g), Spices (5g)",330,31,14,18,4,390,6
+Fresh Raw Veggies (Kachumbari),"Tomatoes (100g), Onions (50g), Coriander (10g), Lemon juice (15ml), Vegetable oil (5ml), Salt (2g), Chili pepper (5g)",90,2,16,1,3,15,9
+Fried irish potatoes (Ifiriti y'ibirayi),"Potatoes (250g), Vegetable oil (40ml), Salt (2g), Rosemary (dried) (2g), Garlic powder (2g)",470,6,65,26,5,310,2
+Fried plantain (Mizuzu),"Plantain (200g), Vegetable oil (30ml), Salt (2g), Black pepper (2g), Chili powder (optional) (2g)",420,2,65,22,6,15,32
+Fried sweet potatoes ( Ifiriti y'ibijumba),"Sweet potatoes (250g), Vegetable oil (40ml), Salt (2g), Cinnamon (2g), Brown sugar (10g)",495,5,75,26,8,110,16
+Goat Meat Stew (Isosi y'ihene),"Goat meat (150g), Onions (50g), Tomatoes (100g), Vegetable oil (15ml), Garlic (5g), Ginger (5g), Salt (3g), Spices (5g)",420,35,10,30,2,350,4
+Green bananas with meat (Agatogo),"Green bananas (200g), Beef (100g), Tomatoes (50g), Onions (50g), Celery (30g), Vegetable oil (5ml), Garlic (5g), Salt (2g), Spices (5g)",560,29,82,20,9,280,22
+Grilled Tilapia (Ifi yokeje),"Tilapia fillet (200g), Vegetable oil (10ml), Garlic (5g), Lemon juice (15ml), Salt (2g), Black pepper (2g), Onion (25g)",260,48,0,6,0,140,0
+Irish Potatoes and beans (Imvange),"Potatoes (200g), Beans (150g), Salt (2g), Onion (50g), Garlic (5g), Vegetable oil (10ml)",400,22,75,3,14,20,4
+Mashed matoke (Umunyigi),"Matoke (300g), Butter (20g), Salt (2g), Milk (50ml), Black pepper (2g), Onion (30g), Garlic (5g)",550,5,100,15,9,25,36
+Pan-fried Pork (Akabenzi),"Pork (200g), Vegetable oil (15ml), Onions (50g), Garlic (5g), Salt (2g), Black pepper (2g)",650,48,2,46,0,200,1
+Rice and Bean Stew (Umuceri n'ibishyimbo),"Rice (100g uncooked), Beans (100g dry), Onions (50g), Tomatoes (100g), Vegetable oil (10ml), Garlic (5g), Salt (3g), Spices (5g)",720,28,130,12,16,300,4
+Sorghum Porridge (Igikoma),"Sorghum flour (50g), Milk (200ml), Sugar (10g), Water (100ml)",310,10,58,5,6,15,17
+Sweet Potatoes with Beans (Ibijumba n'ibishyimbo),"Sweet Potatoes (250g), Dried beans (100g), Salt (3g), Water (700ml)",455,27,98,1,18,70,13
